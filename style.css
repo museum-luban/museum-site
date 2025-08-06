@@ -50,7 +50,7 @@ footer {
   text-align: center;
   padding: 20px;
 }
-* Адаптация под мобильные устройства */
+/* Адаптация под мобильные устройства */
 @media (max-width: 768px) {
   header {
     padding: 20px 10px;
@@ -89,3 +89,4 @@ footer {
     padding: 15px 10px;
   }
 }
+
